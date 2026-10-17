@@ -1,0 +1,15 @@
+{
+    "name": "tcs34725",
+    "version": "1.0.0",
+    "description": "TCS34725 Color Sensor Extension for micro:bit",
+    "files": [
+        "tcs34725.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
