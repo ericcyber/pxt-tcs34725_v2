@@ -1,5 +1,5 @@
 {
-    "name": "tcs34725",
+    "name": "pxt-tcs34725_v2",
     "version": "1.0.0",
     "description": "TCS34725 Color Sensor Extension for micro:bit",
     "files": [
@@ -8,8 +8,6 @@
     "testFiles": [
         "test.ts"
     ],
-    "supportedTargets": [
-        "microbit"
-    ],
+    "supportedTargets": ["microbit"],
     "preferredEditor": "tsprj"
 }
